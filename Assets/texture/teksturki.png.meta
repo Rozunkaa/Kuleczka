@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: df2a9991c4eb7b8429b3e08181ff868d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7926992562633071371
+    second: teksturki_0
+  - first:
+      213: 3965460781334090819
+    second: teksturki_1
+  - first:
+      213: -4734863873998846640
+    second: teksturki_2
+  - first:
+      213: 7849736981515209635
+    second: teksturki_3
+  - first:
+      213: 9043520415085269648
+    second: teksturki_4
+  - first:
+      213: -2429386551756559309
+    second: teksturki_5
+  - first:
+      213: -2173473045105879561
+    second: teksturki_6
+  - first:
+      213: 2795657148674065507
+    second: teksturki_7
+  - first:
+      213: 7362689428067183050
+    second: teksturki_8
+  - first:
+      213: 6473236328542304572
+    second: teksturki_9
+  - first:
+      213: 5948336635367402947
+    second: teksturki_10
+  - first:
+      213: -6555886691997844722
+    second: teksturki_11
+  - first:
+      213: 3210146522779623671
+    second: teksturki_12
+  - first:
+      213: -2148603099664237050
+    second: teksturki_13
+  - first:
+      213: 1220676290697291183
+    second: teksturki_14
+  - first:
+      213: 5047427665372443539
+    second: teksturki_15
+  - first:
+      213: -4713910156127207580
+    second: teksturki_16
+  - first:
+      213: 2430699861273547604
+    second: teksturki_17
+  - first:
+      213: -2601779115868611170
+    second: teksturki_18
+  - first:
+      213: 1586133711531403953
+    second: teksturki_19
+  - first:
+      213: 7881368457073979477
+    second: teksturki_20
+  - first:
+      213: -4306886528765729837
+    second: teksturki_21
+  - first:
+      213: -1122502874557413124
+    second: teksturki_22
+  - first:
+      213: 5302482285606650517
+    second: teksturki_23
+  - first:
+      213: 2286920653824337683
+    second: teksturki_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: teksturki_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1146
+        width: 178
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4a717634aadf190800000000000000
+      internalID: -7926992562633071371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teksturki_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 824
+        width: 174
+        height: 579
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344592a1295280730800000000000000
+      internalID: 3965460781334090819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teksturki_2
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 310
+        width: 180
+        height: 1093
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055087a94626a4eb0800000000000000
+      internalID: -4734863873998846640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teksturki_3
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1097
+        width: 174
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab067be13edfec60800000000000000
+      internalID: 7849736981515209635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teksturki_4
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1101
+        width: 360
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092962427e9018d70800000000000000
+      internalID: 9043520415085269648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teksturki_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 838
+        width: 223
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c60787dc5194ed0800000000000000
+      internalID: -2429386551756559309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teksturki_6
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 891
+        width: 40
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5d391f7c546d1e0800000000000000
+      internalID: -2173473045105879561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teksturki_7
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 891
+        width: 28
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364cf7c5d5b2cc620800000000000000
+      internalID: 2795657148674065507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teksturki_8
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 892
+        width: 45
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9e77f86078d2660800000000000000
+      internalID: 7362689428067183050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teksturki_9
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 892
+        width: 33
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39fae5e42e85d950800000000000000
+      internalID: 6473236328542304572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teksturki_10
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 817
+        width: 359
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd248b77acbc8250800000000000000
+      internalID: 5948336635367402947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teksturki_11
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 536
+        width: 388
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bf1c7c9cfc405a0800000000000000
+      internalID: -6555886691997844722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teksturki_12
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 675
+        width: 23
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f02c3f114bbc8c20800000000000000
+      internalID: 3210146522779623671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teksturki_13
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 675
+        width: 29
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60eb5395dd0ae22e0800000000000000
+      internalID: -2148603099664237050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teksturki_14
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 675
+        width: 24
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5e0c47e96b0f010800000000000000
+      internalID: 1220676290697291183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teksturki_15
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 675
+        width: 54
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393f00028b01c0640800000000000000
+      internalID: 5047427665372443539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teksturki_16
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 675
+        width: 30
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f7ee830b3d49eb0800000000000000
+      internalID: -4713910156127207580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teksturki_17
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 675
+        width: 45
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4531dca35a49bb120800000000000000
+      internalID: 2430699861273547604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teksturki_18
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 675
+        width: 33
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d1f9ecdaf94ebd0800000000000000
+      internalID: -2601779115868611170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teksturki_19
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 534
+        width: 698
+        height: 138
+      alignment: 9
+      pivot: {x: 0.49746537, y: 0.40021518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bae91af434130610800000000000000
+      internalID: 1586133711531403953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teksturki_20
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 446
+        width: 198
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550fcdbbade306d60800000000000000
+      internalID: 7881368457073979477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teksturki_21
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 81
+        width: 700
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3e00d558dda34c0800000000000000
+      internalID: -4306886528765729837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teksturki_22
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 319
+        width: 395
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf886a635911c60f0800000000000000
+      internalID: -1122502874557413124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teksturki_23
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 162
+        width: 204
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592c2658b83369940800000000000000
+      internalID: 5302482285606650517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teksturki_24
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 81
+        width: 729
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31724b0d736ccbf10800000000000000
+      internalID: 2286920653824337683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0de8927b34370f64cb78a1549281e306
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      teksturki_0: -7926992562633071371
+      teksturki_1: 3965460781334090819
+      teksturki_10: 5948336635367402947
+      teksturki_11: -6555886691997844722
+      teksturki_12: 3210146522779623671
+      teksturki_13: -2148603099664237050
+      teksturki_14: 1220676290697291183
+      teksturki_15: 5047427665372443539
+      teksturki_16: -4713910156127207580
+      teksturki_17: 2430699861273547604
+      teksturki_18: -2601779115868611170
+      teksturki_19: 1586133711531403953
+      teksturki_2: -4734863873998846640
+      teksturki_20: 7881368457073979477
+      teksturki_21: -4306886528765729837
+      teksturki_22: -1122502874557413124
+      teksturki_23: 5302482285606650517
+      teksturki_24: 2286920653824337683
+      teksturki_3: 7849736981515209635
+      teksturki_4: 9043520415085269648
+      teksturki_5: -2429386551756559309
+      teksturki_6: -2173473045105879561
+      teksturki_7: 2795657148674065507
+      teksturki_8: 7362689428067183050
+      teksturki_9: 6473236328542304572
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
