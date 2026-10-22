@@ -73,6 +73,11 @@ public class PlayerController : MonoBehaviour
         Debug.Log("Punkty: " + points);
     }
 
+    public int GetPoints()
+    {
+      return points;
+    }
+
     private void OnDrawGizmosSelected()
     {
         if (groundCheck == null) return;
