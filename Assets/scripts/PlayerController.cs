@@ -10,12 +10,16 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float groundRadius = 0.12f;
     [SerializeField] private LayerMask groundLayer;
     [SerializeField] private float fallLimit = -7f;
+    [SerializeField] private float coyoteTime = 0.12f;
+    [SerializeField] private float jumpBufferTime = 0.12f;
     [SerializeField] private int points;
 
     private Rigidbody2D body;
     private Vector2 startPosition;
     private float moveInput;
     private bool jumpRequested;
+    private float coyoteTimer;
+    private float jumpBufferTimer;
 
     private void Awake()
     {
@@ -37,7 +41,10 @@ public class PlayerController : MonoBehaviour
             moveInput += 1f;
 
         if (Keyboard.current.spaceKey.wasPressedThisFrame)
+        {
             jumpRequested = true;
+            jumpBufferTimer = jumpBufferTime;
+        }
     }
 
     private void FixedUpdate()
@@ -46,16 +53,26 @@ public class PlayerController : MonoBehaviour
             Physics2D.OverlapCircle(
                 groundCheck.position,
                 groundRadius, groundLayer) != null;
+        if (grounded)
+            coyoteTimer = coyoteTime;
+        else
+            coyoteTimer = Mathf.Max(0f, coyoteTimer - Time.fixedDeltaTime);
+
+        if (!jumpRequested)
+            jumpBufferTimer = Mathf.Max(0f, jumpBufferTimer - Time.fixedDeltaTime);
+
 
         body.linearVelocity = new Vector2(
             moveInput * moveSpeed,
             body.linearVelocity.y);
 
-        if (jumpRequested && grounded &&
+        if (jumpBufferTimer > 0f && coyoteTimer > 0f &&
             body.linearVelocity.y <= 0.1f)
         {
             body.linearVelocity = new Vector2(
                 body.linearVelocity.x, jumpSpeed);
+            coyoteTimer = 0f;
+            jumpBufferTimer = 0f;
         }
         jumpRequested = false;
 
@@ -64,6 +81,8 @@ public class PlayerController : MonoBehaviour
             body.position = startPosition;
             body.linearVelocity = Vector2.zero;
             body.angularVelocity = 0f;
+            coyoteTimer = 0f;
+            jumpBufferTimer = 0f;
         }
     }
 
